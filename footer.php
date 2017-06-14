@@ -1,0 +1,1 @@
+<p class="float-left">2017 &copy; <a>ТОО республиканский центр помощи предпринимателям 2050</a><br><a href="https://webpaul.ru" target="_blank" class="tran3s">Сделано студией - WebPaul</a></p>
