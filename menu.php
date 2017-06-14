@@ -12,7 +12,7 @@
                 <div class="main-header">
 					<div class="container">
 						<!-- Logo -->
-						<div class="logo float-left"><a href="index.html"><img src="/new/images/logo/logo2.png" alt="Logo"></a></div>
+						<div class="logo float-left"><a href="index.html"><img src="/images/logo/logo2.png" alt="Logo"></a></div>
 
 						<div class="right-content float-right">
 				   		
@@ -26,20 +26,20 @@
 							      
 							      <li><a href="#">Услуги</a>
 							      	<ul class="dropdown">
-							            <li><a href="/new/pages/registr.php">Регистрация</a></li>
-							            <li><a href="/new/pages/1c.php">1C</a></li>
-							            <li><a href="/new/pages/buch.php">Бухгалтерия</a></li>
-							            <li><a href="/new/pages/uchet.php">Учет МСБ</a></li>
-							            <li><a href="/new/pages/notify.php">Уведомления</a></li>
-							            <li><a href="/new/pages/pech.php">Печати</a></li>
-							            <li><a href="/new/pages/stat.php">Стат отчеты</a></li>
-							            <li><a href="/new/pages/nalreg.php">Налоговые регистры</a></li>
+							            <li><a href="/pages/registr.php">Регистрация</a></li>
+							            <li><a href="/pages/1c.php">1C</a></li>
+							            <li><a href="/pages/buch.php">Бухгалтерия</a></li>
+							            <li><a href="/pages/uchet.php">Учет МСБ</a></li>
+							            <li><a href="/pages/notify.php">Уведомления</a></li>
+							            <li><a href="/pages/pech.php">Печати</a></li>
+							            <li><a href="/pages/stat.php">Стат отчеты</a></li>
+							            <li><a href="/pages/nalreg.php">Налоговые регистры</a></li>
 							         </ul>
 							      </li>
 				
-							      <li><a href="/new/pages/kassy.php">Кассовые</a></li>
-							      <li><a href="/new/pages/goszak.php">Госзакупки</a></li>
-							      <li><a href="/new/pages/auto.php">Автоматизация</a></li>
+							      <li><a href="/pages/kassy.php">Кассовые</a></li>
+							      <li><a href="/pages/goszak.php">Госзакупки</a></li>
+							      <li><a href="/pages/auto.php">Автоматизация</a></li>
 							      <li><a href="contact-us.html">Контакты</a></li>
 							   </ul>
 							</nav> <!-- /#mega-menu-holder -->
