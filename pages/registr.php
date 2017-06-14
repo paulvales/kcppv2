@@ -92,45 +92,53 @@
 					<div class=" float-right service-details">
 				
 						<div class="service-middle-text">
-							<h3>What Include in the Service?</h3>
-							<p>I have always wanted to have a neighbor just like you. I've always wanted to live in a neighbor with you. Makin their way the only way they know how. That's just little bit more than the law will allow. </p>
+							<h3>Как выбрать?</h3>
+							<p>Мы помогаем начинающим предпринимателям в открытии ИП и ТОО, действющим - в перерегистрации и ликвидации бизнеса.Все консультации Вы получаете абсолютно бесплатно. Например, мы всегда подскажем Вам, какой налоговый режим выбрать при открытии фирмы, когда и какие отчеты сдавать, сколько платить налогов и так далее.</p>
 							<div class="row">
 								<div class="col-sm-6">
 									<div class="single-list">
 										<i class="flaticon-bulb"></i>
-										<h5>Market Research</h5>
-										<p>I have always wanted to have a neighb just like. I've always wanted.</p>
+										<h5>Регистрация ИП</h5>
+										<p></p>
 									</div> <!-- /.single-list -->
 								</div> <!-- /.col -->
 								<div class="col-sm-6">
 									<div class="single-list">
 										<i class="flaticon-bulb"></i>
-										<h5>Service &amp; Cost Planing</h5>
-										<p>I have always wanted to have a neighb just like. I've always wanted.</p>
+										<h5>Регистрация ТОО</h5>
+										<p>15 000 тг</p>
 									</div> <!-- /.single-list -->
 								</div> <!-- /.col -->
 								<div class="col-sm-6">
 									<div class="single-list">
 										<i class="flaticon-bulb"></i>
-										<h5>Google Analyzing</h5>
-										<p>I have always wanted to have a neighb just like. I've always wanted.</p>
+										<h5>Приостановка деятельнсоти</h5>
+										<p>5 000 тг</p>
 									</div> <!-- /.single-list -->
 								</div> <!-- /.col -->
 								<div class="col-sm-6">
 									<div class="single-list">
 										<i class="flaticon-bulb"></i>
-										<h5>Final Approach</h5>
-										<p>I have always wanted to have a neighb just like. I've always wanted.</p>
+										<h5>Ликвидация ИП</h5>
+										<p>от 25 000 тг</p>
+									</div> <!-- /.single-list -->
+								</div> <!-- /.col -->
+                                <div class="col-sm-3"></div>
+								<div class="col-sm-6">
+									<div class="single-list">
+										<i class="flaticon-bulb"></i>
+										<h5>Вывод из бейздействующих</h5>
+										<p>от 30 000 тг</p>
 									</div> <!-- /.single-list -->
 								</div> <!-- /.col -->
 							</div> <!-- /.row -->
 
 							<div class="short-advisor-box clearfix">
 								<div class="float-left">
-									<h4>We Have Great Advisor!!</h4>
-									<p>Here will be somthing that releted with <span class="p-color">business &amp; Consulting</span> services</p>
+									<h4>Бесплатная консультация</h4>
+									<p>С удовольствием ответим вам и постараемся помочь. Если хотите услышать нас<span class="p-color"> +7 (702) 857-22-45</span></p>
 								</div>
-								<a href="/#" class="tran3s p-bg-color float-right hvr-float-shadow">Free Consultation</a>
+								<a href="/#" style="width: 255px;" class="tran3s p-bg-color float-right hvr-float-shadow">Проконсультироваться</a>
 							</div> <!-- /.short-advisor-box -->
 						</div> <!-- /.service-middle-text -->
 
