@@ -26,7 +26,7 @@
 							      
 							      <li><a href="#">Услуги</a>
 							      	<ul class="dropdown">
-							            <li><a href="/pages/registr.php">Регистрация</a></li>
+							            <li><a href="/регистрация">Регистрация</a></li>
 							            <li><a href="/pages/1c.php">1C</a></li>
 							            <li><a href="/pages/buch.php">Бухгалтерия</a></li>
 							            <li><a href="/pages/uchet.php">Учет МСБ</a></li>
