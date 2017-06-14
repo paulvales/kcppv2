@@ -3,7 +3,7 @@
 						<ul class="float-left">
 							<li><a href="https://www.instagram.com/rcpp__kosta/" target="_blank" class="tran3s"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 							<li><a href="https://vk.com/10kcpp" target="_blank" class="tran3s"><i class="fa fa-vk" aria-hidden="true"></i></a></li>
-							<li>Работаем с 9:00 до 18:00</li>
+							<li>9:00 до 18:00 Каирбекова 85</li>
 
 						</ul>
 						<a href="#" class="float-right p-bg-color">Написать нам</a>
