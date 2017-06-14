@@ -1,0 +1,26 @@
+<FilesMatch "\.(pl|php|cgi|spl|scgi|fcgi)$">
+Header unset Cache-Control
+</FilesMatch>
+<ifModule mod_headers.c>
+	#кэшировать css, javascript и текстовые файлы на одну неделю
+	<FilesMatch "\.(css|txt)$">
+		Header set Cache-Control "max-age=604800"
+	</FilesMatch>
+	#кэшировать флэш и изображения на месяц
+	<FilesMatch "\.(flv|swf|ico|gif|jpg|jpeg|png)$">
+		Header set Cache-Control "max-age=2592000"
+	</FilesMatch>
+</IfModule>
+RewriteEngine on
+
+RewriteRule ^регистрация /pages/registr.php
+RewriteRule ^клиенты /db/client.php
+RewriteRule ^добавить-клиента /db/addclient.php
+RewriteRule ^api /db/api.php
+RewriteRule ^квартиры /db/flat.php
+RewriteRule ^рейтинг /db/rating.php
+RewriteRule ^график /db/graph.php
+RewriteRule ^звонки /db/calls.php
+RewriteRule ^хроника /db/hronica.php
+RewriteRule ^календарь /db/calendar.php
+
