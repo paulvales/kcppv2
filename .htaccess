@@ -15,6 +15,7 @@ RewriteEngine on
 
 RewriteRule ^регистрация /pages/registr.php
 RewriteRule ^контакты contact-us.php
+RewriteRule ^oops 500.php
 RewriteRule ^кассовые-аппараты /pages/online.php
 RewriteRule ^api /db/api.php
 RewriteRule ^квартиры /db/flat.php

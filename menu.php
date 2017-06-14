@@ -27,19 +27,19 @@
 							      <li><a href="#">Услуги</a>
 							      	<ul class="dropdown">
 							            <li><a href="регистрация">Регистрация</a></li>
-							            <li><a href="/pages/1c.php">1C</a></li>
-							            <li><a href="/pages/buch.php">Бухгалтерия</a></li>
-							            <li><a href="/pages/uchet.php">Учет МСБ</a></li>
-							            <li><a href="/pages/notify.php">Уведомления</a></li>
-							            <li><a href="/pages/pech.php">Печати</a></li>
-							            <li><a href="/pages/stat.php">Стат отчеты</a></li>
-							            <li><a href="/pages/nalreg.php">Налоговые регистры</a></li>
+							            <li><a href="oops">1C</a></li>
+							            <li><a href="oops">Бухгалтерия</a></li>
+							            <li><a href="oops">Учет МСБ</a></li>
+							            <li><a href="oops">Уведомления</a></li>
+							            <li><a href="oops">Печати</a></li>
+							            <li><a href="oops">Стат отчеты</a></li>
+							            <li><a href="oops">Налоговые регистры</a></li>
 							         </ul>
 							      </li>
 				
 							      <li><a href="кассовые-аппараты">Кассовые</a></li>
-							      <li><a href="/pages/goszak.php">Госзакупки</a></li>
-							      <li><a href="/pages/auto.php">Автоматизация</a></li>
+							      <li><a href="oops">Госзакупки</a></li>
+							      <li><a href="oops">Автоматизация</a></li>
 							      <li><a href="контакты">Контакты</a></li>
 							   </ul>
 							</nav> <!-- /#mega-menu-holder -->
