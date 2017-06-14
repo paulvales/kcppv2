@@ -14,7 +14,7 @@ Header unset Cache-Control
 RewriteEngine on
 
 RewriteRule ^регистрация /pages/registr.php
-RewriteRule ^клиенты /db/client.php
+RewriteRule ^контакты contact-us.php
 RewriteRule ^добавить-клиента /db/addclient.php
 RewriteRule ^api /db/api.php
 RewriteRule ^квартиры /db/flat.php

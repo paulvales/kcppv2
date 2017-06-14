@@ -26,7 +26,7 @@
 							      
 							      <li><a href="#">Услуги</a>
 							      	<ul class="dropdown">
-							            <li><a href="/регистрация">Регистрация</a></li>
+							            <li><a href="регистрация">Регистрация</a></li>
 							            <li><a href="/pages/1c.php">1C</a></li>
 							            <li><a href="/pages/buch.php">Бухгалтерия</a></li>
 							            <li><a href="/pages/uchet.php">Учет МСБ</a></li>
@@ -40,7 +40,7 @@
 							      <li><a href="/pages/kassy.php">Кассовые</a></li>
 							      <li><a href="/pages/goszak.php">Госзакупки</a></li>
 							      <li><a href="/pages/auto.php">Автоматизация</a></li>
-							      <li><a href="contact-us.html">Контакты</a></li>
+							      <li><a href="контакты">Контакты</a></li>
 							   </ul>
 							</nav> <!-- /#mega-menu-holder -->
 				   		</div> <!-- /.menu-wrapper -->
