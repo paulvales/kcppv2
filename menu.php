@@ -12,7 +12,7 @@
                 <div class="main-header">
 					<div class="container">
 						<!-- Logo -->
-						<div class="logo float-left"><a href="index.html"><img src="/images/logo/logo2.png" alt="Logo"></a></div>
+						<div class="logo float-left"><a href="/"><img src="/images/logo/logo2.png" alt="Logo"></a></div>
 
 						<div class="right-content float-right">
 				   		
@@ -22,7 +22,7 @@
 				   		<div class="menu-wrapper float-right">
 				   			<nav id="mega-menu-holder" class="menuzord">
 							   <ul class="menuzord-menu">
-							      <li class="active"><a href="index.html">Главная</a></li>
+							      <li class="active"><a href="/">Главная</a></li>
 							      
 							      <li><a href="#">Услуги</a>
 							      	<ul class="dropdown">

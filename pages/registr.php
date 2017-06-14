@@ -89,7 +89,7 @@
 			-->
 			<div class="container">
 				<div class="details-page-wrapper clearfix">
-					<div class="details-page-large-side float-right service-details">
+					<div class=" float-right service-details">
 				
 						<div class="service-middle-text">
 							<h3>What Include in the Service?</h3>
@@ -151,7 +151,7 @@
 			============================================== 
 			-->
 			
-
+<?php include($_SERVER['DOCUMENT_ROOT'].'/footerpage.php'); ?>
 
 
 	        

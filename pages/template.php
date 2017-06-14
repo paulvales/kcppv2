@@ -260,61 +260,7 @@
 				Footer
 			============================================== 
 			-->
-			<footer>
-				<div class="container">
-					<div class="row">
-						<div class="col-md-3 col-sm-6">
-							<div class="footer-logo">
-								<a href="/new/index.html"><img src="/new/images/logo/logo2.png" alt="Logo"></a>
-								<p>Thus much I thought proper to tell you in relation to yourself, and to the trust I reposed in you.</p>
-							</div>
-						</div>
-						<div class="col-md-2 col-sm-3 footer-list">
-							<h5>Learn More</h5>
-							<ul>
-								<li><a href="/new/about-us.html" class="tran3s">How it Works</a></li>
-								<li><a href="/new/#" class="tran3s">Guarantee</a></li>
-								<li><a href="/new/#" class="tran3s">Security</a></li>
-								<li><a href="/new/service-v2.html" class="tran3s">Report Bug</a></li>
-								<li><a href="/new/about-us.html" class="tran3s">Pricing</a></li>
-								<li><a href="/new/#" class="tran3s">Free Stuff</a></li>
-								<li><a href="/new/#" class="tran3s">Help Center</a></li>
-							</ul>
-						</div>
-						<div class="col-lg-3 col-md-2 col-sm-3 footer-list fix">
-							<h5>About</h5>
-							<ul>
-								<li><a href="/new/#" class="tran3s">About Singleton</a></li>
-								<li><a href="/new/#" class="tran3s">Jobs</a></li>
-								<li><a href="/new/our-team.html" class="tran3s">Team</a></li>
-								<li><a href="/new/#" class="tran3s">Testimonials</a></li>
-								<li><a href="/new/blog-list.html" class="tran3s">Blog</a></li>
-							</ul>
-						</div>
-						<div class="col-lg-4 col-md-5 col-xs-12 follow-us">
-							<h5>Follow Us</h5>
-							<ul>
-								<li><a href="/new/#" class="tran3s"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-								<li><a href="/new/#" class="tran3s"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-								<li><a href="/new/#" class="tran3s"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-								<li><a href="/new/#" class="tran3s"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-								<li><a href="/new/#" class="tran3s"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-								<li><a href="/new/#" class="tran3s"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
-							</ul>
-							<h5>Subscribe Us</h5>
-							<p>This sounded a very good reason, and Alice was quite pleased to know it.</p>
-							<form action="#" class="subscribe-form">
-								<input type="email" placeholder="Your e-mail">
-								<button class="tran3s p-bg-color round-border hvr-icon-wobble-horizontal"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
-							</form>
-						</div>
-					</div> <!-- /.row -->
-
-					<div class="bottom-footer clearfix">
-						<?php include($_SERVER['DOCUMENT_ROOT'].'/new/footer.php'); ?>
-					</div> <!-- /.bottom-footer -->
-				</div> <!-- /.container -->
-			</footer>
+			
 
 
 
