@@ -37,7 +37,7 @@
 							         </ul>
 							      </li>
 				
-							      <li><a href="/pages/kassy.php">Кассовые</a></li>
+							      <li><a href="кассовые-аппараты">Кассовые</a></li>
 							      <li><a href="/pages/goszak.php">Госзакупки</a></li>
 							      <li><a href="/pages/auto.php">Автоматизация</a></li>
 							      <li><a href="контакты">Контакты</a></li>

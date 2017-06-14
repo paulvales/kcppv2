@@ -11,21 +11,21 @@
 		<title>Регистрация ИП, ТОО в Костанае</title>
 
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" sizes="56x56" href="/new/images/fav-icon/icon.png">
+		<link rel="icon" type="image/png" sizes="56x56" href="/images/fav-icon/icon.png">
 
 
 		<!-- Main style sheet -->
-		<link rel="stylesheet" type="text/css" href="/new/css/style.css">
+		<link rel="stylesheet" type="text/css" href="/css/style.css">
 		<!-- responsive style sheet -->
-		<link rel="stylesheet" type="text/css" href="/new/css/responsive.css">
+		<link rel="stylesheet" type="text/css" href="/css/responsive.css">
 
 
 		<!-- Fix Internet Explorer ______________________________________-->
 
 		<!--[if lt IE 9]>
-			<script src="/new/http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-			<script src="/new/vendor/html5shiv.js"></script>
-			<script src="/new/vendor/respond.js"></script>
+			<script src="/http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="/vendor/html5shiv.js"></script>
+			<script src="/vendor/respond.js"></script>
 		<![endif]-->
 			
 	</head>
@@ -69,11 +69,11 @@
 				<div class="container">
 					<div class="clearfix">
 						<ul class="float-left">
-							<li><a href="/new/index.html" class="tran3s">Home</a></li>
+							<li><a href="/index.html" class="tran3s">Home</a></li>
 							<li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
 							<li>Service</li>
 						</ul>
-						<a href="/new/#" class="float-right tran3s"><i class="flaticon-share"></i> Share</a>
+						<a href="/#" class="float-right tran3s"><i class="flaticon-share"></i> Share</a>
 					</div>
 				</div>
 			</div> <!-- /.theme-inner-banner -->
@@ -89,7 +89,7 @@
 				<div class="details-page-wrapper clearfix">
 					<div class="details-page-large-side float-right service-details">
 						<div class="service-top-text">
-							<img src="/new/images/service/11.jpg" alt="">
+							<img src="/images/service/11.jpg" alt="">
 							<h3>Increase Your Business Profit</h3>
 							<span>Here will some subtite with  dosis alter seeker levegre agilee framwork provide higgh level overviews</span>
 							<p>Established in 1997 and based in Swindon, Wiltshire, BusinessWebsite has helped over 500 clients to make the most of their web presence and selling potential. Our talented team of in-house designers and developers offers a full package of internet solutions, including website design and build, hosting, development and support services.</p> <br> 
@@ -134,7 +134,7 @@
 									<h4>We Have Great Advisor!!</h4>
 									<p>Here will be somthing that releted with <span class="p-color">business &amp; Consulting</span> services</p>
 								</div>
-								<a href="/new/#" class="tran3s p-bg-color float-right hvr-float-shadow">Free Consultation</a>
+								<a href="/#" class="tran3s p-bg-color float-right hvr-float-shadow">Free Consultation</a>
 							</div> <!-- /.short-advisor-box -->
 						</div> <!-- /.service-middle-text -->
 
@@ -142,14 +142,14 @@
 							<h3>Our Approch</h3>
 
 							<ul class="nav nav-tabs">
-								<li class="active"><a data-toggle="tab" href="/new/#home">Research</a></li>
-								<li><a data-toggle="tab" href="/new/#menu1">Planing & Step</a></li>
-								<li><a data-toggle="tab" href="/new/#menu2">Final Output</a></li>
+								<li class="active"><a data-toggle="tab" href="/#home">Research</a></li>
+								<li><a data-toggle="tab" href="/#menu1">Planing & Step</a></li>
+								<li><a data-toggle="tab" href="/#menu2">Final Output</a></li>
 							</ul>
 							<div class="tab-content">
 								<div id="home" class="tab-pane fade in active">
 							    	<div class="clearfix">
-							    		<img src="/new/images/service/12.jpg" alt="" class="float-left">
+							    		<img src="/images/service/12.jpg" alt="" class="float-left">
 							    		<div class="float-left">
 							    			<p>Established in 1997 and based in Swindon, Wiltshire, BusinessWebsite has helped over 500 clients,</p> <br>
 							    			<p>Our talented team of in-house designers and developers offers a full package of internet solutions, including website design and build, hosting, development and support services.web doe presence and selling potential.</p>
@@ -158,7 +158,7 @@
 								</div>
 							  	<div id="menu1" class="tab-pane fade">
 							    	<div class="clearfix">
-							    		<img src="/new/images/service/13.jpg" alt="" class="float-left">
+							    		<img src="/images/service/13.jpg" alt="" class="float-left">
 							    		<div class="float-left">
 							    			<p>Established in 1997 and based in Swindon, Wiltshire, BusinessWebsite has helped over 500 clients,</p> <br>
 							    			<p>Our talented team of in-house designers and developers offers a full package of internet solutions, including website design and build, hosting, development and support services.web doe presence and selling potential.</p>
@@ -167,7 +167,7 @@
 							  	</div>
 							    <div id="menu2" class="tab-pane fade">
 							    	<div class="clearfix">
-							    		<img src="/new/images/service/14.jpg" alt="" class="float-left">
+							    		<img src="/images/service/14.jpg" alt="" class="float-left">
 							    		<div class="float-left">
 							    			<p>Established in 1997 and based in Swindon, Wiltshire, BusinessWebsite has helped over 500 clients,</p> <br>
 							    			<p>Our talented team of in-house designers and developers offers a full package of internet solutions, including website design and build, hosting, development and support services.web doe presence and selling potential.</p>
@@ -181,12 +181,12 @@
 
 					<div class="details-page-sidebar float-right">
 						<ul class="sidebar-list">
-							<li><a href="/new/" class="tran3s">Financial Advise</a></li>
-							<li><a href="/new/" class="tran3s">Google Analyze</a></li>
-							<li><a href="/new/" class="tran3s">Investment Banking</a></li>
-							<li><a href="/new/" class="tran3s">Sales &amp; Trading</a></li>
-							<li><a href="/new/" class="tran3s">Market Research</a></li>
-							<li><a href="/new/" class="tran3s">Business Consulting</a></li>
+							<li><a href="/" class="tran3s">Financial Advise</a></li>
+							<li><a href="/" class="tran3s">Google Analyze</a></li>
+							<li><a href="/" class="tran3s">Investment Banking</a></li>
+							<li><a href="/" class="tran3s">Sales &amp; Trading</a></li>
+							<li><a href="/" class="tran3s">Market Research</a></li>
+							<li><a href="/" class="tran3s">Business Consulting</a></li>
 						</ul>
 
 						<div class="sidebar-slider">
@@ -195,7 +195,7 @@
 								<div class="carousel-inner" role="listbox">
 								    <div class="item active">
 								    	<div class="name">
-								    		<img src="/new/images/inner-page/6.jpg" alt="Image">
+								    		<img src="/images/inner-page/6.jpg" alt="Image">
 								    		<h6>Jasmin Rose</h6>
 								    		<span>Founder of Innovate</span>
 								    	</div> <!-- /.name -->
@@ -203,7 +203,7 @@
 								    </div>	
 								    <div class="item">
 									    <div class="name">
-								    		<img src="/new/images/inner-page/6.jpg" alt="Image">
+								    		<img src="/images/inner-page/6.jpg" alt="Image">
 								    		<h6>Jasmin Rose</h6>
 								    		<span>Founder of Innovate</span>
 								    	</div> <!-- /.name -->
@@ -211,7 +211,7 @@
 								    </div>	
 								    <div class="item">
 									    <div class="name">
-								    		<img src="/new/images/inner-page/6.jpg" alt="Image">
+								    		<img src="/images/inner-page/6.jpg" alt="Image">
 								    		<h6>Jasmin Rose</h6>
 								    		<span>Founder of Innovate</span>
 								    	</div> <!-- /.name -->
@@ -231,10 +231,10 @@
 						<div class="call-us">
 							<span>Have any Question ?<br>Call Us :</span>
 							<h6 class="p-color">(+880) 1723801729</h6>
-							<a href="/new/#" class="tran3s">More Details</a>
+							<a href="/#" class="tran3s">More Details</a>
 						</div> <!-- /.call-us -->
 
-						<a href="/new/#" class="download tran3s p-bg-color hvr-float-shadow"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Details Brochure.pdf <span class="flaticon-download"></span></a>
+						<a href="/#" class="download tran3s p-bg-color hvr-float-shadow"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Details Brochure.pdf <span class="flaticon-download"></span></a>
 					</div> <!-- /.details-page-sidebar -->
 				</div> <!-- /.details-page-wrapper -->
 			</div>
@@ -248,8 +248,8 @@
 			<div class="bottom-banner">
 				<div class="container">
 					<h2 class="float-left">Ready to Create Great App or Website?</h2>
-					<a href="/new/#" class="theme-button subscribe p-bg-color float-right">SubScribe Now</a>
-					<a href="/new/about-us.html" class="theme-button learn float-right">Learn More</a>
+					<a href="/#" class="theme-button subscribe p-bg-color float-right">SubScribe Now</a>
+					<a href="/about-us.html" class="theme-button learn float-right">Learn More</a>
 				</div> <!-- /.container -->
 			</div> <!-- /.bottom-banner -->
 
@@ -278,43 +278,43 @@
 		<!-- Js File_________________________________ -->
 
 		<!-- j Query -->
-		<script type="text/javascript" src="/new/vendor/jquery.2.2.3.min.js"></script>
+		<script type="text/javascript" src="/vendor/jquery.2.2.3.min.js"></script>
 
 		<!-- Bootstrap JS -->
-		<script type="text/javascript" src="/new/vendor/bootstrap/bootstrap.min.js"></script>
+		<script type="text/javascript" src="/vendor/bootstrap/bootstrap.min.js"></script>
 
 		<!-- Vendor js _________ -->
 		<!-- revolution -->
-		<script src="/new/vendor/revolution/jquery.themepunch.tools.min.js"></script>
-		<script src="/new/vendor/revolution/jquery.themepunch.revolution.min.js"></script>
-		<script type="text/javascript" src="/new/vendor/revolution/revolution.extension.slideanims.min.js"></script>
-		<script type="text/javascript" src="/new/vendor/revolution/revolution.extension.layeranimation.min.js"></script>
-		<script type="text/javascript" src="/new/vendor/revolution/revolution.extension.navigation.min.js"></script>
-		<script type="text/javascript" src="/new/vendor/revolution/revolution.extension.kenburn.min.js"></script>
+		<script src="/vendor/revolution/jquery.themepunch.tools.min.js"></script>
+		<script src="/vendor/revolution/jquery.themepunch.revolution.min.js"></script>
+		<script type="text/javascript" src="/vendor/revolution/revolution.extension.slideanims.min.js"></script>
+		<script type="text/javascript" src="/vendor/revolution/revolution.extension.layeranimation.min.js"></script>
+		<script type="text/javascript" src="/vendor/revolution/revolution.extension.navigation.min.js"></script>
+		<script type="text/javascript" src="/vendor/revolution/revolution.extension.kenburn.min.js"></script>
 		<!-- Mega menu  -->
-		<script type="text/javascript" src="/new/vendor/Menuzord/js/menuzord.js"></script>
+		<script type="text/javascript" src="/vendor/Menuzord/js/menuzord.js"></script>
 		<!-- Bootstrap Select JS -->
-		<script type="text/javascript" src="/new/vendor/bootstrap-select/dist/js/bootstrap-select.js"></script>
+		<script type="text/javascript" src="/vendor/bootstrap-select/dist/js/bootstrap-select.js"></script>
 		
 		<!-- WOW js -->
-		<script type="text/javascript" src="/new/vendor/WOW-master/dist/wow.min.js"></script>
+		<script type="text/javascript" src="/vendor/WOW-master/dist/wow.min.js"></script>
 		<!-- owl.carousel -->
-		<script type="text/javascript" src="/new/vendor/owl-carousel/owl.carousel.min.js"></script>
+		<script type="text/javascript" src="/vendor/owl-carousel/owl.carousel.min.js"></script>
 		<!-- js count to -->
-		<script type="text/javascript" src="/new/vendor/jquery.appear.js"></script>
-		<script type="text/javascript" src="/new/vendor/jquery.countTo.js"></script>
+		<script type="text/javascript" src="/vendor/jquery.appear.js"></script>
+		<script type="text/javascript" src="/vendor/jquery.countTo.js"></script>
 		<!-- fancy box -->
-		<script type="text/javascript" src="/new/vendor/fancy-box/jquery.fancybox.pack.js"></script>
+		<script type="text/javascript" src="/vendor/fancy-box/jquery.fancybox.pack.js"></script>
 		
 		<!-- js count to -->
-		<script type="text/javascript" src="/new/vendor/jquery.appear.js"></script>
-		<script type="text/javascript" src="/new/vendor/jquery.countTo.js"></script>
+		<script type="text/javascript" src="/vendor/jquery.appear.js"></script>
+		<script type="text/javascript" src="/vendor/jquery.countTo.js"></script>
 		<!-- MixitUp -->
-		<script type="text/javascript" src="/new/vendor/jquery.mixitup.min.js"></script>
+		<script type="text/javascript" src="/vendor/jquery.mixitup.min.js"></script>
 
 
 		<!-- Theme js -->
-		<script type="text/javascript" src="/new/js/theme.js"></script>
+		<script type="text/javascript" src="/js/theme.js"></script>
 
 		</div> <!-- /.main-page-wrapper -->
 	</body>
