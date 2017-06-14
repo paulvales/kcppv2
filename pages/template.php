@@ -49,7 +49,7 @@
 			<header class="theme-menu-two">
 				
 
-			<?php include($_SERVER['DOCUMENT_ROOT'].'/new/menu.php'); ?>
+			<?php include($_SERVER['DOCUMENT_ROOT'].'/menu.php'); ?>
 			</header> <!-- /.theme-menu-two -->
 
 			
@@ -260,7 +260,7 @@
 				Footer
 			============================================== 
 			-->
-			
+			   <?php include($_SERVER['DOCUMENT_ROOT'].'/footerpage.php'); ?>
 
 
 
